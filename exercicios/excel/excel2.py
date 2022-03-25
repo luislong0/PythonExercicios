@@ -12,3 +12,4 @@ for celula in aba_ativa["C"]:
         aba_ativa[f"D{linha}"] = 1.5
 
 planilha.save("TabelaOpenPy.xlsx")
+print()

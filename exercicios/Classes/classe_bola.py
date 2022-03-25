@@ -21,4 +21,6 @@ bola = Bola(coloracao, 5, "Borracha")
 bola.mostra_cor()
 bola.trocaCor("Amarelo")
 bola.mostra_cor()
+bola.mostra_cor()
+
 
